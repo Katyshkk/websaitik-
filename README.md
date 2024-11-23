@@ -6,10 +6,10 @@
 
     </header>
 <body style="font-family:sans-serif">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZH7iNHjNcZuB6RunuEcquMI2dw6p16y4YQ&s"height="150px"/> 
+<h1></h1> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZH7iNHjNcZuB6RunuEcquMI2dw6p16y4YQ&s"height="150px"/> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkuMu1GixD2ezeXYtrJKOneUkQdRedqfaeig&s"height="120px"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaAB_67XGMXCm6n1V6POk_pNqgpmZrjUYLOQ&s"height="170px"/>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BKwWK-zMWMNPDj-vvm58DWwEueELRU_cA&s"height="120px"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BKwWK-zMWMNPDj-vvm58DWwEueELRU_cA&s"height="120px"/> </body>h1>
 
     
 </html>
